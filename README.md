@@ -1,4 +1,4 @@
-Graduanda em Sistemas para Internet (IFRS), com foco em desenvolvimento Full Stack
+Estudante de Tecnologia em Sistemas para Internet (IFRS), com foco em desenvolvimento Full Stack
 <br> </br>⚡ Atualmente estou estudando e me aprofundando em GML (GameMaker Language)
 
 <h4>💻 Meus Conhecimentos</h4>
